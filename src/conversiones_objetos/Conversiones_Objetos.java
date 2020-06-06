@@ -26,6 +26,8 @@ public class Conversiones_Objetos {
     
     conversion2.resultadoEnKilos();
     conversion2.resultadoEnLibras();
+    
+    conversion2.resultadoEnKilos();
         
     }
     
